@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and cyber security.
 - 🌱 I’m currently learning learning python language.
 - 💞️ I’m looking to collaborate on software developer on you.
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/omer-faruk-okumus/
 
 <!---
 0merF4ruk/0merF4ruk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
